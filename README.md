@@ -1,3 +1,1 @@
-# Testes usando RTL em um aplicativo que valida e-mails
-
-foram implementados os testes no arquivo `/src/App.test.js`.
+Tests using RTL in an application that validates emails were implemented in the file /src/App.test.js.
